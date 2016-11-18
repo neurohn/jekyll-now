@@ -8,11 +8,50 @@ I'm a first year PhD student in the [ECE department](http://www.ece.ucsb.edu/) a
 
 My general areas of research are Image Analysis and Machine Learning. More specifically, my research focuses on deriving structural information from nanometer-scale brain images.
 
+I also enjoy a life apart from academia. Outside of work, I dabble in cooking, reading good books, working out, playing tennis and soccer, dancing, and going on excursions.
 
+## News
 
-### Links to my documents
+- **June 2016:** Attending CVPR 2016 at Las Vegas with VRL group!
+- **Jan 2016:** Accepted into the ECE PhD program at UCSB. Will be working in VRL with [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath).
+- **December 2015:** Finished with Masters requirements at ECE, UCSB!
+- **October 2015:** Qualified the PhD Screening Examination with ECE, UCSB.
+- **September 2015:** Would be TA to [Pradeep Sen](https://www.ece.ucsb.edu/~psen/) for ECE 178 Introduction to Image and Video Processing, Fall 2015.
+- **September 2015:** Would be TA to [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath) for ECE 160 Multimedia Systems, Spring 2015.
+- **September 2014:** Joining ECE UCSB, to pursue an MS degree in Signal and Image Processing. Good times ahead!
+- **May 2014:** Graduated from IIT Kharagpur with a B.Tech(Hons.) in Intrumentation Engineering!
 
-- [Resume](https://raw.githubusercontent.com/neurohn/neurohn.github.io/master/assets/Resume_Rohan_Jain.pdf)
+## Links to my documents
+
+Note: These are links to documents saved on the cloud. They open in the same tab.
+
+- [Resume](https://www.dropbox.com/s/4tj8m3x0psr1pz1/Resume_Rohan_Jain.pdf?dl=0)
+
+- **Project:** Detection and Characterization of Epileptic Seizures. Course Project for ECE594E Machine Learning, Spring 2015, UCSB with [Upamanyu Madhow](https://wcsl.ece.ucsb.edu/people/upamanyu-madhow).
+	- [Report](https://www.dropbox.com/s/myjq2we234bk56h/ECE594E_Project_Report_RajagopalJain.pdf?dl=0)
+	- [Presentation](https://docs.google.com/presentation/d/1AZWCtDiYywZAWsb3EY7eFgwdZiTnENE1Bq4TvkhcxWU/pub?start=false&loop=false&delayms=60000)
+
+- **Project:** Activity Recognition in Videos using 3D Salient Point signatures. Course Project for ECE281B Computer Vision, Spring 2015, UCSB with [Victor Fragoso](http://vfragoso.com/), [Matthew Turk](https://www.cs.ucsb.edu/~mturk/)
+	- [Report](https://www.dropbox.com/s/rh1kfpq3d4e2ppw/ECE281B_JainRajagopal_Project.pdf?dl=0)
+	- [Presentation](https://docs.google.com/presentation/d/1VEmndjfkG-MPHrhIDEVduO6jjbwtapEDZgHOjQWxkcE/pub?start=false&loop=false&delayms=60000)
+
+- **Paper Review:** Atmosukarto, Indriyati, and Linda G. Shapiro. "A salient-point signature for 3D object retrieval." Proceedings of the 1st ACM international conference on Multimedia information retrieval. ACM, 2008.
+	- [Presentation](https://docs.google.com/presentation/d/15v1LKAxcy2YRaQ80B0yztDtIAG1x0HWgKEt-duu6H2k/pub?start=false&loop=false&delayms=60000)
+	- [Critique](https://docs.google.com/document/d/1UJne2dJzinh7Kh9AgOt2BG4SB3WuR3peitikr3XeCUU/pub)
+
+- **Project:** TrackBeat: an Android application for detecting heart rate from video of human head. Course Project for [CS290I Mobile Imaging](https://www.cs.ucsb.edu/~mturk/Teaching.html), Winter 2015, UCSB with [Matthew Turk](https://www.cs.ucsb.edu/~mturk/)
+	- [Report](https://www.dropbox.com/s/ehumfxo8w3eaisq/CS290I_Report.pdf?dl=0)
+	- [Presentation](https://docs.google.com/presentation/d/1ounkIoDJg2myp4Eons_RvrQLgUEuzDk_ooN_JEl_XZs/pub?start=false&loop=false&delayms=60000)
+	- [Code](https://github.com/neurohn/TrackBeat)
+	- [Video demonstration](https://www.youtube.com/watch?v=NUb1GDgm-aw)
+
+- **Paper Review:** Kopf, Johannes, et al. "Capturing and viewing gigapixel images." ACM Transactions on Graphics (TOG). Vol. 26. No. 3. ACM, 2007.
+	 - [Presentation](https://docs.google.com/presentation/d/1lQ0es5kSS3U5nINlp6wbRgsak4k6WfaLEP_q9i-nLto/pub?start=false&loop=false&delayms=60000)
+
+- **Project:** Efficient Hierarchichal Graph-based Video Segmentation. Course Project for ECE278A Digital Image Processing, Winter 2015, UCSB with [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath)
+	- [Report](https://www.dropbox.com/s/rcz74mvmqo4sicw/ECE278A_report.pdf?dl=0)
+	- [Presentation](https://docs.google.com/presentation/d/1rxrCpgCwntSRvo0wVBRyRDLA06IedNL2d35PeZDkIoI/pub?start=false&loop=false&delayms=60000)
+	- [Code](https://github.com/neurohn/image-segmentation) for image segmentation part
 
 ### Contact me
 
