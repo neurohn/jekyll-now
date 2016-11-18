@@ -25,7 +25,7 @@ I also enjoy a life apart from academia. Outside of work, I dabble in cooking, r
 
 Note: These are links to documents saved on the cloud. They open in the same tab.
 
-- [Resume](https://www.dropbox.com/s/4tj8m3x0psr1pz1/Resume_Rohan_Jain.pdf?dl=0)
+- [Resume](https://www.dropbox.com/s/2x4h7u7h1ysffpm/Resume.pdf?dl=0)
 
 - **Project:** Detection and Characterization of Epileptic Seizures. Course Project for ECE594E Machine Learning, Spring 2015, UCSB with [Upamanyu Madhow](https://wcsl.ece.ucsb.edu/people/upamanyu-madhow).
 	- [Report](https://www.dropbox.com/s/myjq2we234bk56h/ECE594E_Project_Report_RajagopalJain.pdf?dl=0)
