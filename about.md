@@ -62,5 +62,5 @@ Note: These are links to documents saved on the cloud. They open in the same tab
 	- [Report](https://www.dropbox.com/s/0v1kggoxo4pi7i3/rohan%20btp%20ver2.pdf?dl=0)
 	- [Presentation](https://www.dropbox.com/s/cfq5hychwkrj6wl/Rohan%20Final%20Presentation.pdf?dl=0)
 
-- **Internship: ** at Robert Bosch Engineering India on Lithium ion Battery Modeling for Simulation of Hybrid Electric Vehicles. 
+- **Internship:** at Robert Bosch Engineering India on Lithium ion Battery Modeling for Simulation of Hybrid Electric Vehicles. 
 	- Report and Presentation available on request
