@@ -10,8 +10,10 @@ My general areas of research are Image Analysis and Machine Learning. More speci
 
 I also enjoy a life apart from academia. Outside of work, I dabble in cooking, reading good books, working out, playing tennis and soccer, dancing, and going on excursions.
 
-## News
+Feel free to connect at [rohanjain@ece.ucsb.edu](mailto:rohanjain@ece.ucsb.edu)
 
+## News
+- **January 2017:** Would be TA to [Malgorzata Marek-Sadowska](https://iee.ucsb.edu/people/malgorzata-marek-sadowska) for ECE 15A Fundamentals of Logic Design, Winter 2017.
 - **June 2016:** Attending CVPR 2016 at Las Vegas with VRL group!
 - **Jan 2016:** Accepted into the ECE PhD program at UCSB. Will be working in VRL with [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath).
 - **December 2015:** Finished with Masters requirements at ECE, UCSB!
@@ -52,7 +54,13 @@ Note: These are links to documents saved on the cloud. They open in the same tab
 	- [Report](https://www.dropbox.com/s/rcz74mvmqo4sicw/ECE278A_report.pdf?dl=0)
 	- [Presentation](https://docs.google.com/presentation/d/1rxrCpgCwntSRvo0wVBRyRDLA06IedNL2d35PeZDkIoI/pub?start=false&loop=false&delayms=60000)
 	- [Code](https://github.com/neurohn/image-segmentation) for image segmentation part
+- **Project:** Automated Detection of Solitary Pulmonary Nodule from Lung CT Images using Rule Based Classifier.
+	- [Paper](https://www.dropbox.com/s/gwdeibf2tfg0bkq/ICVSP_Paper_ID_128%20Automated%20Detection%20of%20Solitary%20Pulmonary%20Nodule%20from%20Lung%20CT%20Images%20using%20Rule%20Based%20Classifier.pdf?dl=0)
+	- [Presentation](https://www.dropbox.com/s/96pqnl0ivevtvzb/ICVSP_2014_128.pptx?dl=0)
+	
+- **Undergraduate Project:** Adaptive filter design for sparse system identification.
+	- [Report](https://www.dropbox.com/s/0v1kggoxo4pi7i3/rohan%20btp%20ver2.pdf?dl=0)
+	- [Presentation](https://www.dropbox.com/s/cfq5hychwkrj6wl/Rohan%20Final%20Presentation.pdf?dl=0)
 
-### Contact me
-
-Feel free to connect at [rohanjain@ece.ucsb.edu](mailto:rohanjain@ece.ucsb.edu)
+- **Internship: ** at Robert Bosch Engineering India on Lithium ion Battery Modeling for Simulation of Hybrid Electric Vehicles. 
+	- Report and Presentation available on request
