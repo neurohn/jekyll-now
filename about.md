@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a first year PhD student in the [ECE department](http://www.ece.ucsb.edu/) at [UC Santa Barbara](http://www.ucsb.edu/), advised by [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath). I previously completed an MS in Signal and Image Processing at [UC Santa Barbara](http://www.ucsb.edu/). Prior to UCSB, I graduated with a B.Tech(Hons.) in Instrumentation Engineering from the [Electrical Engineering](http://www.ee.iitkgp.ac.in/) department at [IIT Kharagpur](http://iitkgp.ac.in/).
+I'm a second year PhD student in the [ECE department](http://www.ece.ucsb.edu/) at [UC Santa Barbara](http://www.ucsb.edu/), advised by [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath). I previously completed an MS in Signal and Image Processing at [UC Santa Barbara](http://www.ucsb.edu/). Prior to UCSB, I graduated with a B.Tech(Hons.) in Instrumentation Engineering from the [Electrical Engineering](http://www.ee.iitkgp.ac.in/) department at [IIT Kharagpur](http://iitkgp.ac.in/).
 
 My general areas of research are Image Analysis and Machine Learning. More specifically, my research focuses on deriving structural information from nanometer-scale brain images.
 
@@ -17,9 +17,9 @@ Feel free to connect at [rohanjain@ece.ucsb.edu](mailto:rohanjain@ece.ucsb.edu)
 - **June 2016:** Attending CVPR 2016 at Las Vegas with VRL group!
 - **Jan 2016:** Accepted into the ECE PhD program at UCSB. Will be working in VRL with [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath).
 - **December 2015:** Finished with Masters requirements at ECE, UCSB!
-- **October 2015:** Qualified the PhD Screening Examination with ECE, UCSB.
+- **October 2015:** Qualified the PhD Screening Examination in Signal Processing and Communications with ECE, UCSB.
 - **September 2015:** Would be TA to [Pradeep Sen](https://www.ece.ucsb.edu/~psen/) for ECE 178 Introduction to Image and Video Processing, Fall 2015.
-- **September 2015:** Would be TA to [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath) for ECE 160 Multimedia Systems, Spring 2015.
+- **April 2015:** Would be TA to [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath) for ECE 160 Multimedia Systems, Spring 2015.
 - **September 2014:** Joining ECE UCSB, to pursue an MS degree in Signal and Image Processing. Good times ahead!
 - **May 2014:** Graduated from IIT Kharagpur with a B.Tech(Hons.) in Intrumentation Engineering!
 
