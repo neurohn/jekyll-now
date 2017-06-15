@@ -16,7 +16,7 @@ Feel free to connect at [rohanjain@ece.ucsb.edu](mailto:rohanjain@ece.ucsb.edu)
 - **April 2017:** Would be TA to [Kenneth Rose](https://engineering.ucsb.edu/people/kenneth-rose) for ECE 139 Probability and Statistics, Spring 2017.
 - **January 2017:** Would be TA to [Malgorzata Marek-Sadowska](https://iee.ucsb.edu/people/malgorzata-marek-sadowska) for ECE 15A Fundamentals of Logic Design, Winter 2017.
 - **June 2016:** Attending CVPR 2016 at Las Vegas with VRL group!
-- **Jan 2016:** Accepted into the ECE PhD program at UCSB. Will be working in VRL with [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath).
+- **Jan 2016:** Accepted into the ECE PhD program at UCSB.
 - **December 2015:** Finished with Masters requirements at ECE, UCSB!
 - **October 2015:** Qualified the PhD Screening Examination in Signal Processing and Communications with ECE, UCSB.
 - **September 2015:** Would be TA to [Pradeep Sen](https://www.ece.ucsb.edu/~psen/) for ECE 178 Introduction to Image and Video Processing, Fall 2015.
