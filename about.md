@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I'm a second year PhD student in the [ECE department](http://www.ece.ucsb.edu/) at [UC Santa Barbara](http://www.ucsb.edu/), advised by [William Wang](https://www.cs.ucsb.edu/~william/). I previously completed an MS in Signal and Image Processing at [UC Santa Barbara](http://www.ucsb.edu/). Prior to UCSB, I graduated with a B.Tech(Hons.) in Instrumentation Engineering from the [Electrical Engineering](http://www.ee.iitkgp.ac.in/) department at [IIT Kharagpur](http://iitkgp.ac.in/).
+I'm a second year PhD student in the [ECE department](http://www.ece.ucsb.edu/) at [UC Santa Barbara](http://www.ucsb.edu/), advised by [William Wang](https://www.cs.ucsb.edu/~william/) and [B.S. Manjunath](https://vision.ece.ucsb.edu/people/bs-manjunath). I previously completed an MS in Signal and Image Processing at [UC Santa Barbara](http://www.ucsb.edu/). Prior to UCSB, I graduated with a B.Tech(Hons.) in Instrumentation Engineering from the [Electrical Engineering](http://www.ee.iitkgp.ac.in/) department at [IIT Kharagpur](http://iitkgp.ac.in/).
 
-My general areas of research are Machine Learning, Computer Vision and Natural Language Processing. More specifically, my research focuses on automated understanding the relationships among objects in visual scenes.  
+My general areas of research are Machine Learning, Computer Vision and Natural Language Processing. My research focuses on relation extraction for knowledge base completion. In the past I have explored Visual Question Answering, Image Classification and Image Segmentation.  
 
 I also enjoy a life apart from academia. Outside of work, I dabble in cooking, reading good books, working out, playing tennis and soccer, dancing, and going on excursions.
 
-Feel free to connect at [rohanjain@ece.ucsb.edu](mailto:rohanjain@ece.ucsb.edu)
+Feel free to connect at [rohanjain@ucsb.edu](mailto:rohanjain@ucsb.edu)
 
 ## News
+- **September 2017:** Would be TA to [Hua Lee](https://engineering.ucsb.edu/people/hua-lee) for ECE 130A Signal Processing, Fall 2017.
 - **April 2017:** Would be TA to [Kenneth Rose](https://engineering.ucsb.edu/people/kenneth-rose) for ECE 139 Probability and Statistics, Spring 2017.
 - **January 2017:** Would be TA to [Malgorzata Marek-Sadowska](https://iee.ucsb.edu/people/malgorzata-marek-sadowska) for ECE 15A Fundamentals of Logic Design, Winter 2017.
 - **June 2016:** Attending CVPR 2016 at Las Vegas with VRL group!
