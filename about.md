@@ -29,9 +29,7 @@ Feel free to connect at [rohanjain@ucsb.edu](mailto:rohanjain@ucsb.edu)
 ## Links to my documents
 
 Note: These are links to documents saved on the cloud. They open in the same tab.
-<!--
-- [Resume](https://www.dropbox.com/s/orhx9s134ls1t29/Resume.pdf?dl=0)
--->
+
 - **Project:** TrackBeat: an Android application for detecting heart rate from video of human head. Course Project for [CS290I Mobile Imaging](https://www.cs.ucsb.edu/~mturk/Teaching.html), Winter 2015, UCSB with [Matthew Turk](https://www.cs.ucsb.edu/~mturk/)
 	- [Report](https://www.dropbox.com/s/ehumfxo8w3eaisq/CS290I_Report.pdf?dl=0)
 	- [Presentation](https://docs.google.com/presentation/d/1ounkIoDJg2myp4Eons_RvrQLgUEuzDk_ooN_JEl_XZs/pub?start=false&loop=false&delayms=60000)
