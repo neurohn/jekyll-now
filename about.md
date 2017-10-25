@@ -25,13 +25,19 @@ Feel free to connect at [rohanjain@ucsb.edu](mailto:rohanjain@ucsb.edu)
 - **September 2014:** Joining ECE UCSB, to pursue an MS degree in Signal and Image Processing. Good times ahead!
 - **May 2014:** Graduated from IIT Kharagpur with a B.Tech(Hons.) in Intrumentation Engineering!
 
-<!--
+
 ## Links to my documents
 
 Note: These are links to documents saved on the cloud. They open in the same tab.
-
+<!--
 - [Resume](https://www.dropbox.com/s/orhx9s134ls1t29/Resume.pdf?dl=0)
-
+-->
+- **Project:** TrackBeat: an Android application for detecting heart rate from video of human head. Course Project for [CS290I Mobile Imaging](https://www.cs.ucsb.edu/~mturk/Teaching.html), Winter 2015, UCSB with [Matthew Turk](https://www.cs.ucsb.edu/~mturk/)
+	- [Report](https://www.dropbox.com/s/ehumfxo8w3eaisq/CS290I_Report.pdf?dl=0)
+	- [Presentation](https://docs.google.com/presentation/d/1ounkIoDJg2myp4Eons_RvrQLgUEuzDk_ooN_JEl_XZs/pub?start=false&loop=false&delayms=60000)
+	- [Code](https://github.com/neurohn/TrackBeat)
+	- [Video demonstration](https://www.youtube.com/watch?v=NUb1GDgm-aw)
+	
 - **Project:** Detection and Characterization of Epileptic Seizures. Course Project for ECE594E Machine Learning, Spring 2015, UCSB with [Upamanyu Madhow](https://wcsl.ece.ucsb.edu/people/upamanyu-madhow).
 	- [Report](https://www.dropbox.com/s/myjq2we234bk56h/ECE594E_Project_Report_RajagopalJain.pdf?dl=0)
 	- [Presentation](https://docs.google.com/presentation/d/1AZWCtDiYywZAWsb3EY7eFgwdZiTnENE1Bq4TvkhcxWU/pub?start=false&loop=false&delayms=60000)
@@ -43,12 +49,6 @@ Note: These are links to documents saved on the cloud. They open in the same tab
 - **Paper Review:** Atmosukarto, Indriyati, and Linda G. Shapiro. "A salient-point signature for 3D object retrieval." Proceedings of the 1st ACM international conference on Multimedia information retrieval. ACM, 2008.
 	- [Presentation](https://docs.google.com/presentation/d/15v1LKAxcy2YRaQ80B0yztDtIAG1x0HWgKEt-duu6H2k/pub?start=false&loop=false&delayms=60000)
 	- [Critique](https://docs.google.com/document/d/1UJne2dJzinh7Kh9AgOt2BG4SB3WuR3peitikr3XeCUU/pub)
-
-- **Project:** TrackBeat: an Android application for detecting heart rate from video of human head. Course Project for [CS290I Mobile Imaging](https://www.cs.ucsb.edu/~mturk/Teaching.html), Winter 2015, UCSB with [Matthew Turk](https://www.cs.ucsb.edu/~mturk/)
-	- [Report](https://www.dropbox.com/s/ehumfxo8w3eaisq/CS290I_Report.pdf?dl=0)
-	- [Presentation](https://docs.google.com/presentation/d/1ounkIoDJg2myp4Eons_RvrQLgUEuzDk_ooN_JEl_XZs/pub?start=false&loop=false&delayms=60000)
-	- [Code](https://github.com/neurohn/TrackBeat)
-	- [Video demonstration](https://www.youtube.com/watch?v=NUb1GDgm-aw)
 
 - **Paper Review:** Kopf, Johannes, et al. "Capturing and viewing gigapixel images." ACM Transactions on Graphics (TOG). Vol. 26. No. 3. ACM, 2007.
 	 - [Presentation](https://docs.google.com/presentation/d/1lQ0es5kSS3U5nINlp6wbRgsak4k6WfaLEP_q9i-nLto/pub?start=false&loop=false&delayms=60000)
@@ -67,4 +67,4 @@ Note: These are links to documents saved on the cloud. They open in the same tab
 
 - **Internship:** at Robert Bosch Engineering India on Lithium ion Battery Modeling for Simulation of Hybrid Electric Vehicles. 
 	- Report and Presentation available on request
--->
+
