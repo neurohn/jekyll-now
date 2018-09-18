@@ -28,7 +28,7 @@ Feel free to connect at [rohanjain@ucsb.edu](mailto:rohanjain@ucsb.edu)
 - **September 2014:** Joining ECE UCSB, to pursue an MS degree in Signal and Image Processing. Good times ahead!
 - **May 2014:** Graduated from IIT Kharagpur with a B.Tech(Hons.) in Intrumentation Engineering!
 
-
+<!---
 ## Links to my documents
 
 Note: These are links to documents saved on the cloud. They open in the same tab.
@@ -69,3 +69,4 @@ Note: These are links to documents saved on the cloud. They open in the same tab
 - **Internship:** at Robert Bosch Engineering India on Lithium ion Battery Modeling for Simulation of Hybrid Electric Vehicles. 
 	- Report and Presentation available on request
 
+-->
